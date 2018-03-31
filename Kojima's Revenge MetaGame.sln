@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kojima's Revenge MetaGame", "Kojima's Revenge MetaGame.csproj", "{EAB3DA06-A978-E2B8-482D-3013330B594D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAB3DA06-A978-E2B8-482D-3013330B594D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAB3DA06-A978-E2B8-482D-3013330B594D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAB3DA06-A978-E2B8-482D-3013330B594D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAB3DA06-A978-E2B8-482D-3013330B594D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

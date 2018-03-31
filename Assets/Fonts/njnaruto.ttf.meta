@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c9db79b9f4e53c846b1f4c590544aa9f
+timeCreated: 1522161469
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ninja Naruto
+  fontNames:
+  - Ninja Naruto
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
